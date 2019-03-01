@@ -1,0 +1,13 @@
+$CompanyName = "Contoso Inc."
+$DomainController = "dc.domain.tld"
+$ExchangeServer = "exchange.domain.tld"
+$SMTPServer = "exchange.domain.tld"
+$NewPasswordLocation = ""
+$CIOAlias = "cio"
+$CIOEmail = "cio@domain.tld"
+$AdminEmail = @("admin@domain.tld", "admin2@domain.tld")
+$FileShareBase = "\\dfs\shares"
+$ManagedUsers = "OU=Users,DC=domain,DC=tld"
+$ManagedComputers = "OU=Computers,DC=domain,DC=tld"
+$UPNSuffix = "domain.tld"
+$NotificationsMail = "notifications@domain.tld"
